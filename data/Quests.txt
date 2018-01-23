@@ -1,0 +1,78 @@
+Text that appears outside of the <quest></quest> tags will not display anywhere and can be used for notes if required.
+
+// <quest id:Name of Quest|difficulty|catId>
+// OBJECTIVES separated by commas (leave this blank to not use objectives for a quest)
+// RESOLUTIONS separated by commas use | for line breaks (leave this blank if not using resolutions for a quest)
+// quest description
+// quest description
+// quest description
+// </quest>
+
+//////////////////////////////////////////
+//////////// QUETE POULE DE LOUIS/////////
+//////////////////////////////////////////
+<quest 1:Sauver la poule|0|1>
+
+Trouver une \c[2]Potion\C
+
+Trouver ou acheter une \c[2]Potion\C
+au magasin, pour sauver la poule
+de \c[27]Louis\C.
+</quest>
+///////////////////////////////////////////
+///////////////////////////////////////////
+
+<quest 2:Retrouvez Louis|2|1>
+
+
+Retrouver Louis à l'exterieur
+pour récuperer votre récompense.
+
+
+</quest>
+///////////////////////////////////////////
+//////////// LE ROI, MAIN QUEST   /////////
+//////////////////////////////////////////
+<quest 3:Le Roi|3|0>
+Retrouvé le Roi au Chateau.
+
+</quest>
+///////////////////////////////////////////
+
+
+<quest 4:Dératisation|1|1>
+
+Eliminer les\c[10]Rats\C
+
+Aller dans le magasin au \c[3]Village 1\C
+acceder a la cave et elimer au moin 5
+\c[10]Rats\C.
+</quest>
+///////////////////////////////////////////
+///////////////////////////////////////////
+
+<quest 5:Transport|1|1>
+
+Une Cible importante \c[27]Marie\C
+
+Cherchez \c[27]Marie\C est donnez lui
+la \c[2]Lettre\C
+
+Vous receverez.
+150 Or
+50 X
+</quest>
+///////////////////////////////////////////
+///////////////////////////////////////////
+
+<quest 6:Mouton perdu|1|1>
+
+Le mouton de \c[27]Marie\C
+
+toruver et rammener le mouton de \c[27]Marie\C
+dans son enclos.
+
+Vous receverez.
+150 Or
+50 XP
+</quest>

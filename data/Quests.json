@@ -1,0 +1,27 @@
+[
+  [
+    "Story",
+    "Gathering",
+    "Ivalice",
+    "Bounties",
+    "Queu de Rat"
+  ],
+  {
+    "id":1,
+    "icon":293,
+    "cat":4,
+    "name":"Queue de Rat2",
+    "desc":"Hey allez me chercher une queue de rat.",
+    "steps":[
+      [
+        "Recuperer une queue de Rat",true,1,1,false],
+        ["Talk to Mrs. Buttersworth.",false,1,1,false]
+    ],
+    "rewards":[
+      ["custom","Kiss from Mrs. Buttersworth",0,false],
+      ["item",6,1,false],["gold",100,0,false],
+      ["xp",100,0,false]
+
+    ]
+  }
+]
