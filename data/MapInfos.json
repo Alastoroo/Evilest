@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"Le commencement","order":1,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
 {"id":2,"expanded":false,"name":"Château du Roi","order":10,"parentId":0,"scrollX":810.6666666666666,"scrollY":986.6666666666666},
-{"id":3,"expanded":true,"name":"Village 1 Azay","order":2,"parentId":0,"scrollX":450.22222222222223,"scrollY":819.1111111111111},
+{"id":3,"expanded":true,"name":"Village 1 Azay","order":2,"parentId":0,"scrollX":450.22222222222223,"scrollY":534.6666666666666},
 {"id":4,"expanded":true,"name":"Maison 1","order":5,"parentId":3,"scrollX":728,"scrollY":409.77777777777777},
 {"id":5,"expanded":true,"name":"Magasin d'Objets","order":3,"parentId":3,"scrollX":728,"scrollY":409.77777777777777},
 {"id":6,"expanded":false,"name":"Manoir","order":6,"parentId":3,"scrollX":1081.7777777777778,"scrollY":1466.6666666666667},
