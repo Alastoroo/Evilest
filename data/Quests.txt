@@ -69,7 +69,7 @@ Vous receverez.
 
 Le mouton de \c[27]Marie\C
 
-toruver et rammener le mouton de \c[27]Marie\C
+trouver et rammener le mouton de \c[27]Marie\C
 dans son enclos.
 
 Vous receverez.
